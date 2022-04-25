@@ -7,7 +7,7 @@ FIRST_QUEST_PHRASES = ["I ran away. Find me (poke the keys)", "How? And so?"]
 SECOND_CHARTER_PHRASES = ["I'm tired of you! Stop it!", "Aren't you tired of it yourself?", "Will that be enough?", "You're wasting your time!", "I see that you are not giving up. Well done!", "NO!!!"]
 SECOND_QUEST_PHRASES = ["NO!!!", "NO!!!", "NO!!!", "Is it broken?"]
 THIRD_CHARTER_PHRASES = ["HA-HA-HA!", "What???", "How did you fix it?", "It doesn't matter though.", "Stop it!", "Would it please you if you were pressed all the time?", "ALL THE TIME!", "Don't you understand?", "This game has no end!"]
-THIRD_QUEST_PHRASE = "I won't talk to you unti      l you type my name."
+THIRD_QUEST_PHRASE = "I won't talk to you until you type my name."
 FINISH_PHRASES = ["You did it!", "But how?", "You handled everything!", "Yes! Well down!", "...", ".....", ".......", "This", "This is", "This is the", "This is the end!", "Thanks for playing!", "Press 'Tab' to exit."]
 
 
